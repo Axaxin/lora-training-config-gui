@@ -1,0 +1,1 @@
+{"pretrained_model": "./sd-models/model.ckpt", "train_data_dir": "./train/aki", "output_name": "aki", "output_dir": "./output", "resolution_width": "512", "resolution_height": "512", "batch_size": "1", "max_train_epochs": "10", "network_dim": "32", "network_alpha": "32", "lr": "1e-4", "unet_lr": "1e-4", "text_encoder_lr": "1e-5", "save_model_as": "safetensors"}
